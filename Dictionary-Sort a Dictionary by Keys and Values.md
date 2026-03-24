@@ -30,7 +30,7 @@ To write a Python program that sorts a dictionary's:
 ---
 
 ## 🧪Program
-```
+```py
 d = {'banana': 3, 'apple': 1, 'cherry': 2}
 
 sorted_keys = dict(sorted(d.items()))
