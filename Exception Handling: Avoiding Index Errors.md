@@ -12,11 +12,9 @@ To write a Python program that handles an **IndexError** when trying to access a
 
 ## 🧾 Program
 ```
-# Define list
 list1 = [10, 20, 30, 40]
 
 try:
-    # Access out-of-range index
     print(list1[5])
 except IndexError:
     print("You're out of list range")
