@@ -11,7 +11,7 @@ To write a Python program that handles an **IndexError** when trying to access a
 3. Print the result based on whether the index access succeeds or fails.
 
 ## 🧾 Program
-```
+```py
 list1 = [10, 20, 30, 40]
 
 try:
